@@ -6,7 +6,7 @@ To compile run in the terminal:
     make
 
 
-In order to use tool tips then append the following to the comment section :@Your tooltip.
+In order to use tool tips, append the following to the comment section :@Your tooltip.
 
 Example
 -------
